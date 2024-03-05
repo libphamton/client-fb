@@ -1,0 +1,34 @@
+{
+  "name": "api-client-x",
+  "version": "1.0.0",
+  "description": "connect to api tiwtter",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api-client-x",
+    "api-connect-x",
+    "api-connect-tiwtter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/libphamton/api-client-x.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@libphamton"
+  },
+  "author": "libphamton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/libphamton/api-client-x/issues"
+  },
+  "homepage": "https://github.com/libphamton/api-client-x#readme",
+  "dependencies": {
+    "@oraliepham/api-chat-fanpage-facebook": "^1.2.3",
+    "api-chat-fanpage-facebook": "^1.2.0",
+    "api-chatfb": "^1.0.6",
+    "api-chatfb-test": "^1.0.6",
+    "api-facebooknew": "^1.0.3"
+  }
+}
