@@ -1,6 +1,6 @@
 {
   "name": "@libphamton/api-client-x",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "connect to api tiwtter",
   "main": "lib/index.js",
   "scripts": {
