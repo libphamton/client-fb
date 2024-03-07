@@ -1,6 +1,6 @@
 {
   "name": "@libphamton/client-fb",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "connect to api tiwtter",
   "main": "lib/index.js",
   "scripts": {
