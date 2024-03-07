@@ -1,6 +1,6 @@
 {
-  "name": "api-client-x",
-  "version": "1.0.1",
+  "name": "@libphamton/api-client-x",
+  "version": "1.0.2",
   "description": "connect to api tiwtter",
   "main": "lib/index.js",
   "scripts": {
@@ -14,9 +14,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/libphamton/api-client-x.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@libphamton"
   },
   "author": "libphamton",
   "license": "ISC",
