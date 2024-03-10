@@ -1,5 +1,5 @@
 {
-  "name": "@libphamton/client-fb",
+  "name": "@libphamton/chatfanpage",
   "version": "1.0.9",
   "description": "connect to api tiwtter",
   "main": "lib/index.js",
@@ -7,28 +7,28 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "client-fb",
+    "chatfanpage",
     "api-connect-x",
     "api-connect-tiwtter"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/libphamton/client-fb.git"
+    "url": "https://github.com/libphamton/chatfanpage.git"
   },
   "author": "libphamton",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/libphamton/client-fb/issues"
+    "url": "https://github.com/libphamton/chatfanpage/issues"
   },
-  "homepage": "https://github.com/libphamton/client-fb#readme",
+  "homepage": "https://github.com/libphamton/chatfanpage#readme",
   "dependencies": {
-    "@oraliepham/api-chat-fanpage-facebook": "^1.2.4",
+    "@libphamton/api-client-x": "^1.0.7",
+    "@libphamton/client-fb": "github:libphamton/client-fb",
+    "@oraliepham/api-chat-fanpage-facebook": "^1.2.0",
     "@oraliepham/api-facebooknew": "^1.0.5",
     "api-chat-fanpage-facebook": "^1.2.0",
     "api-chatfb": "^1.0.7",
     "api-chatfb-test": "^1.0.6",
     "api-facebooknew": "^1.0.4"
-  },
-  "devDependencies": {}
+  }
 }
-
