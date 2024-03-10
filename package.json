@@ -1,7 +1,7 @@
 {
   "name": "@libphamton/chatfanpage",
-  "version": "1.0.1",
-  "description": "connect to api tiwtter",
+  "version": "1.0.2",
+  "description": "connect to api chatfanpage",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,7 +23,9 @@
   "homepage": "https://github.com/libphamton/chatfanpage#readme",
   "dependencies": {
     "@libphamton/api-client-x": "^1.0.7",
+    "@libphamton/chatfanpage": "^1.0.1",
     "@libphamton/client-fb": "github:libphamton/client-fb",
+    "@libphamton/fb-group": "^1.0.0",
     "@oraliepham/api-chat-fanpage-facebook": "^1.2.0",
     "@oraliepham/api-facebooknew": "^1.0.5",
     "api-chat-fanpage-facebook": "^1.2.0",
