@@ -22,15 +22,5 @@
   },
   "homepage": "https://github.com/libphamton/chatfanpage#readme",
   "dependencies": {
-    "@libphamton/api-client-x": "^1.0.7",
-    "@libphamton/chatfanpage": "^1.0.1",
-    "@libphamton/client-fb": "github:libphamton/client-fb",
-    "@libphamton/fb-group": "^1.0.0",
-    "@oraliepham/api-chat-fanpage-facebook": "^1.2.0",
-    "@oraliepham/api-facebooknew": "^1.0.5",
-    "api-chat-fanpage-facebook": "^1.2.0",
-    "api-chatfb": "^1.0.7",
-    "api-chatfb-test": "^1.0.6",
-    "api-facebooknew": "^1.0.4"
   }
 }
